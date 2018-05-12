@@ -1,0 +1,37 @@
+_repo: Devota_43080
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Travis, Stuart
+    birthdate: 1868
+    deathdate: 1942
+    gutenberg_agent_id: '32179'
+    url: http://www.gutenberg.org/2009/agents/32179
+covers:
+- cover_type: archival
+  image_path: 43080-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Evans, Augusta J. (Augusta Jane)
+    aliases:
+    - Wilson, Augusta Evans
+    - Wilson, Augusta Jane Evans
+    - Wilson, Augusta J. Evans
+    birthdate: 1835
+    deathdate: 1909
+    gutenberg_agent_id: '1399'
+    url: http://www.gutenberg.org/2009/agents/1399
+description: ''
+gutenberg_issued: '2013-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43080'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: Devota
+url: http://www.gutenberg.org/ebooks/43080
